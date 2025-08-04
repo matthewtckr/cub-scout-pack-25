@@ -18,3 +18,9 @@ button, .cta {
   padding: 10px;
   text-transform: uppercase;
 }
+
+img.cs_logo {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+}

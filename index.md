@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Cub Scouts Logo](assets/images/cub-scout-logo.png with="200"  style="max-width:100%;height:auto;")
+![Cub Scouts Logo](assets/images/cub-scout-logo.png){:cs_logo}
 
 # Welcome to Cub Scout Pack 25!
 
