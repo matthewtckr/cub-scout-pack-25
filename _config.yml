@@ -1,11 +1,11 @@
 # _config.yml
 
 # Site settings
-title: Cub Scout Pack 123
+title: Cub Scout Pack 25
 description: >-
-  Join Cub Scout Pack 123! Fun activities, outdoor adventures, and values-based programs for kids in grades K–5.
+  Join Cub Scout Pack 25! Fun activities, outdoor adventures, and values-based programs for kids in grades K–5.
 baseurl: "" # Leave empty if publishing to root (e.g., https://yourusername.github.io/)
-url: "https://matthewtckr.github.io" # Replace with your GitHub Pages URL
+url: "https://cflpack25.org" # Replace with your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
@@ -37,10 +37,10 @@ exclude:
 
 # Social (for SEO tag plugin)
 social:
-  name: Cub Scout Pack 123
+  name: Cub Scout Pack 25
   links:
-    - https://www.facebook.com/YourPack123
-    - mailto:pack123info@example.com
+    #- https://www.facebook.com/YourPack123
+    - mailto:fortgatlinpack25@gmail.com
 
 # Defaults for posts/pages
 defaults:
@@ -48,8 +48,8 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"
-      author: "Cub Scout Pack 123"
+      layout: "single"
+      author: "Cub Scout Pack 25"
 
 # Google Analytics (optional)
 # google_analytics: UA-XXXXXXXXX-X
