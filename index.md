@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Welcome to Pack 25
 ---
 
-![Cub Scouts Logo](assets/images/cub-scout-logo.png)
+![Cub Scouts Logo](assets/images/cub-scout-logo.png with="200"  style="max-width:100%;height:auto;")
 
 # Welcome to Cub Scout Pack 25!
 
