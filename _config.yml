@@ -1,0 +1,55 @@
+# _config.yml
+
+# Site settings
+title: Cub Scout Pack 123
+description: >-
+  Join Cub Scout Pack 123! Fun activities, outdoor adventures, and values-based programs for kids in grades K–5.
+baseurl: "" # Leave empty if publishing to root (e.g., https://yourusername.github.io/)
+url: "https://matthewtckr.github.io" # Replace with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Navigation links (optional if using a theme that supports them)
+nav:
+  - title: "Home"
+    url: /
+  - title: "About Scouting"
+    url: /about
+  - title: "Activities"
+    url: /activities
+  - title: "Join"
+    url: /join
+
+# Include/exclude settings
+include:
+  - assets/css/custom.css
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Social (for SEO tag plugin)
+social:
+  name: Cub Scout Pack 123
+  links:
+    - https://www.facebook.com/YourPack123
+    - mailto:pack123info@example.com
+
+# Defaults for posts/pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author: "Cub Scout Pack 123"
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
