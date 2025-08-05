@@ -5,7 +5,7 @@ title: Cub Scout Pack 25
 description: >-
   Join Cub Scout Pack 25! Fun activities, outdoor adventures, and values-based programs for kids in grades K–5.
 baseurl: "" # Leave empty if publishing to root (e.g., https://yourusername.github.io/)
-url: "https://cflpack25.org" # Replace with your GitHub Pages URL
+url: "https://cflpack25.org"
 
 # Build settings
 markdown: kramdown
@@ -14,17 +14,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
-
-# Navigation links (optional if using a theme that supports them)
-nav:
-  - title: "Home"
-    url: /
-  - title: "About Scouting"
-    url: /about
-  - title: "Activities"
-    url: /activities
-  - title: "Join"
-    url: /join
 
 # Include/exclude settings
 include:
