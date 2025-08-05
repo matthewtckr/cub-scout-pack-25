@@ -8,6 +8,8 @@ Pack 25 is a Cub Scout unit chartered by Christ the King Episcopal Church in Orl
 
 Pack 25 is registered with the [Central Florida Council](https://www.cflscouting.org/what-is-cub-scouting/) of [Scouting America](https://www.scouting.org/programs/cub-scouts/).
 
+Pack 25 follows the Orange County school year, starting the program year in the fall.  Families are welcome to join any time of year, helping catch new youth up on important activities to help them earn their rank before summer.
+
 ## Pack 25 Highlights
 
 ### What Do Cub Scouts Do?
@@ -55,3 +57,7 @@ Pack 25 has an annual pack fee of $XX to help cover activity costs.  Additionall
 Cub Scouts are encouraged to wear the Cub Scouting uniform during pack meetings, to help reinforce the concept that youth are part of a team and as a way to show individual achievement by the awards they wear on the uniform.  Pack 25 recommends purchasing an official Cub Scouting shirt, typically one size larger, to help reduce costs.  Cub Scout shirts are commonly available at thrift stores and community marketplaces for much less than purchasing a new shirt directly from Scouting America.  Scouts may use any Navy Blue shorts or pants along with the Cub Scout shirt.
 
 The Cub Scout program has recently switched program materials to be online-first.  This means that grade level-specific handbooks are not necessary for the program.  Parents are required to complete the ["Parent's Guide" for Youth Protection](https://www.scouting.org/training/youth/parents-guides/) each year, which is available online or in the front of any printed handbook.
+
+The only other costs for the program include participant fees for camping and events, and an optional Pack Shirt that can be used during camping and other activities when the uniform is not needed.
+
+For camping events, the Pack dedicates a pack meeting to walk through camping gear, including topics such as what equipment is needed, how to setup a tent, and recommendations on where to find cost-effective gear for family camping.
