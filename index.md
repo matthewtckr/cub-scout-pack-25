@@ -5,4 +5,4 @@ We're a community-focused Cub Scout pack helping boys and girls in grades K–5 
 
 Pack 25 serves families around Azalea Park and other nearby communities.
 
-[Learn More About Scouting](program) | [See the Fun We Have](activities) | [Join Pack 25](join)
+[See the Fun We Have](about) | [Learn More About Scouting](program) | [Join Pack 25](join)
