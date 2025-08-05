@@ -36,6 +36,10 @@ A Scout is:
 - Clean
 - Reverent
 
+#### Cub Scout Motto
+
+Do Your Best
+
 ### Benefits of Scouting
 - Builds self-confidence and leadership
 - Encourages responsibility and good citizenship
