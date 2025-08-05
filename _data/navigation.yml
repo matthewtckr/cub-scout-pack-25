@@ -5,7 +5,5 @@ main:
     url: /about
   - title: "Program"
     url: /program
-  - title: "Activities"
-    url: /activities
   - title: "Join"
     url: /join
