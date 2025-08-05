@@ -24,6 +24,9 @@ exclude:
   - node_modules
   - vendor
 
+atom_feed:
+  hide: true
+
 # Social (for SEO tag plugin)
 social:
   name: Cub Scout Pack 25
