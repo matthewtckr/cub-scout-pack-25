@@ -2,6 +2,14 @@
 title: Program
 ---
 
+### Benefits of Scouting
+- Builds self-confidence and leadership
+- Encourages responsibility and good citizenship
+- Promotes healthy habits and teamwork
+- Provides a safe, supportive environment for kids to grow
+
+> "Scouting builds leaders — one adventure at a time."
+
 ## What is Cub Scouting?
 
 Cub Scouting is a program of Scouting America that builds character, teaches citizenship, and encourages personal fitness through engaging and age-appropriate activities.
@@ -39,22 +47,3 @@ A Scout is:
 #### Cub Scout Motto
 
 Do Your Best
-
-### Benefits of Scouting
-- Builds self-confidence and leadership
-- Encourages responsibility and good citizenship
-- Promotes healthy habits and teamwork
-- Provides a safe, supportive environment for kids to grow
-
-> "Scouting builds leaders — one adventure at a time."
-
-### Scouting in Central Florida
-
-Pack 25 is a Cub Scout unit chartered by Christ the King Episcopal Church in Orlando.  Pack 25 is registered with the [Central Florida Council](https://www.cflscouting.org/what-is-cub-scouting/) of [Scouting America](https://www.scouting.org/programs/cub-scouts/).
-
-Pack 25 serves families within Azalea Park area and nearby communities.
-
-## Frequently Asked Questions
-
-### How much does it cost to do Cub Scouting?
-

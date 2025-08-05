@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "About Pack 25"
+    url: /about
   - title: "Program"
     url: /program
   - title: "Activities"
