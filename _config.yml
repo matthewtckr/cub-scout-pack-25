@@ -4,6 +4,7 @@
 title: Cub Scout Pack 25
 description: >-
   Join Cub Scout Pack 25! Fun activities, outdoor adventures, and values-based programs for kids in grades K–5.
+logo: "/assets/images/cub-scout-logo.png"
 baseurl: "" # Leave empty if publishing to root (e.g., https://yourusername.github.io/)
 url: "https://cflpack25.org"
 
