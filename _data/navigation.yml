@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "About Scouting"
-    url: /about
+  - title: "Program"
+    url: /program
   - title: "Activities"
     url: /activities
   - title: "Join"

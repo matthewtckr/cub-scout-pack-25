@@ -1,5 +1,5 @@
 ---
-title: About Scouting
+title: Program
 ---
 
 ## What is Cub Scouting?
